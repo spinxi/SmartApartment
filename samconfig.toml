@@ -20,7 +20,7 @@ resolve_s3 = true
 stack_name = "smart-apartment-geocode"
 s3_prefix = "smart-apartment-geocode"
 region = "us-east-1"
-parameter_overrides = "GoogleApiKey=\"AIzaSyATGyHpHkf1YcAjwjtl-xMKUIsxjtW8FZg\""
+parameter_overrides = "GoogleApiKey=\"***\""
 image_repositories = []
 
 [default.package.parameters]
